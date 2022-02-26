@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and reall manifestation of endeared and unfeigned loue flowing through a brother from the endless life, unto the scattered (yet united) flock who are of the seed royall</title>
+            <author>Batt, Jasper, d. 1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76114</idno>
+            <idno type="STC">Wing B1144</idno>
+            <idno type="STC">ESTC R230850</idno>
+            <idno type="EEBO-CITATION">99896571</idno>
+            <idno type="PROQUEST">99896571</idno>
+            <idno type="VID">134560</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134560)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2418:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and reall manifestation of endeared and unfeigned loue flowing through a brother from the endless life, unto the scattered (yet united) flock who are of the seed royall</title>
+                  <author>Batt, Jasper, d. 1702.</author>
+               </titleStmt>
+               <extent>[1], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:134560:1"/>
+            <pb facs="tcp:134560:1" rendition="simple:additions"/>
+            <p>A TRVE AND REALL MANIFESTATION Of endeared and <g ref="char:V">Ʋ</g>nfeigned loue Flowing through a Brother From the Endleſs Life, Unto the Scattered (Yet United) flock Who are of the SEED ROYALL.</p>
+            <p>
+               <hi>Printed in the yeare</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:134560:2"/>
+            <pb facs="tcp:134560:2"/>
+            <head>A true and reall Manifeſtation of endeared and unfeigned Love flowing through a Brother, from the endleſs Life, Unto the Scattered, (yet United) flock who are of the SEED ROYALL.</head>
+            <p>OH! <hi>Yee living Branches of the trve Vine;</hi> yee Children of the <hi>day</hi> whoſe light is come, on whom <hi>the glory of the Lord</hi> is riſen, yee hungering Lambes and little ones, and thirſting ſoules after <hi>righteouſneſs,</hi> and all <hi>yee</hi> in whom <hi>true deſires</hi> are begotten, after the knowledge of the Lord; and whoſe <hi>faces</hi> are turned towards <hi>Sion,</hi> more eſpecially to all <hi>yee</hi> amongſt whom I ſometimes have had my Converſation in the Goſpel of Chriſt Ieſus the light of life; unto you all, (without reſpect of perſons) endeared everlaſting <hi>love,</hi> from melt<g ref="char:EOLhyphen"/>ing <hi>bowells,</hi> from me freely flowes and reaches, and in which receive the dear Salutation of me your Brother, fellow Travel<g ref="char:EOLhyphen"/>ler and Companion, towards &amp; in the promiſed Inheritance; and now a Priſoner for the Teſtimony of that Truth and Goſ<g ref="char:EOLhyphen"/>pel which in the fulneſs of time hath been in the demonſtra<g ref="char:EOLhyphen"/>tion of the Spirit and Power of God revealed and declared in and amongſt you; yea in fulneſs of love and life am I even conſtrained hereby to ſalute and imbrace you: and let you know that I am yet <hi>alive,</hi> &amp; that that life &amp; power lives in me which ſhall <hi>ſubdue</hi> Death it ſelfe; &amp; him that hath the power of it, in which life power and love I earneſtly deſire and wiſh that grace mercy love, life and peace eternal, may be abun<g ref="char:EOLhyphen"/>dantly ſhed abroad and multiplied in and amongſt you all.</p>
+            <p>
+               <hi>Oh! my dear and evrlaſtingly beloved Brethren and Siſters,</hi> what ſhall I ſay or what words ſhall I uſe to expreſs my love vnion
+<pb n="3" facs="tcp:134560:3"/>
+and nearneſs to and with you, <hi>yee bone of my bone and fleſh of my fleſh, &amp; love of my life;</hi> ſurely I am full, yea I am full of Love towards you, and have (even as it were) travelled in pain for ſome time waiting to bring forth a manifeſtation of it: And now truly rejoyce that the time is come for me to eaſe my ſelf unto you, and the gates being ſet open, <hi>let my love ſwiftly run forth towards you</hi> as a mighty Stream that runs down a ſteep Hill, <hi>and beares down all oppoſition before it;</hi> When I looke back and call to minde the <hi>day,</hi> when the Lord uttered his <hi>Voice</hi> a<g ref="char:EOLhyphen"/>mongſt us, and when his call reached to <hi>his own</hi> in us, &amp; when he <hi>bowed our hearts</hi> to anſwer his call, and when I with many of you turned my face toward <hi>Sion,</hi> and began to advance out of <hi>Egipt,</hi> and took our Journey together through the wilderneſs in a path unknown unto us; yea, <hi>my dear hearts,</hi> when I remem<g ref="char:EOLhyphen"/>ber now in this time of my <hi>reſtraint &amp; Captivity,</hi> what freedom and liberty once I had amongſt you, when I went with joy &amp; gladneſs with them that kept holy-day, when I aſſembled a<g ref="char:EOLhyphen"/>mongſt the little ones of my <hi>Fathers family</hi> to wait upon him, and when ſomtimes as the <hi>leaſt</hi> of his little ones, I Miniſtred before him amongſt you out of that euerlaſting <hi>Treaſury</hi> from whence I received a portion to diſtribute, when he uttered his <hi>Voice</hi> through me, and when his <hi>witneſs</hi> in many of you an<g ref="char:EOLhyphen"/>ſwered and teſtified it was not the <hi>voice</hi> of a <hi>Stranger;</hi> When his glory even filled his houſe, and his <hi>preſence</hi> appeared in the midſt of us to the ſhaking of the earth removing the mountaines and rending the rocks, when his living ſtreams ſwiftly run through the little vallies, and watered and re<g ref="char:EOLhyphen"/>freſh't his pleaſant heritage, when the <hi>broken</hi> in heart were bound up, and comfort and glad tidings Proclaimed to <hi>Sions mourners,</hi> when the Lambes skipt upon the mountaines, and the <hi>morning Stars</hi> rejoyced together, when with one accord from the life Eternal, in its dominion we breathed forth pray<g ref="char:EOLhyphen"/>ſes
+<pb n="4" facs="tcp:134560:3"/>
+unto <hi>Sions King,</hi> yea when theſe things are ſet before me in this my captive (yet contented ſtate) verily, my <hi>bowells</hi> are even turned within me, and in remembrance thereof mine heart affects mine eyes, and mine eyes anſwers my heart, and oft teares plentifully runs down upon my Bed in the night ſeaſon; <hi>Oh my deare and pretious ones!</hi> feele yee my melting, panting, yearning <hi>bowells</hi> over and towards you; Let not my teares be ſpilt in vaine in remembrance of you, what though I am here ſhut up, and numbred amongſt <hi>tranſgreſſors,</hi> and ſeperated from your ſoſciety? yee know it is only for bearing record to the living hope begotten in you, <hi>even the hope of Iſra<g ref="char:EOLhyphen"/>el:</hi> Oh! how can I forget the Lords pleaſant Heritage, whoſe beauty, whoſe love hath even overcome me; <hi>yee excellent ones,</hi> ſurely my delight is in you, my vnion, my fellowſhip, my life is with you, nay if I forget you, (in whom my ſoule re<g ref="char:EOLhyphen"/>joyces, and in whoſe love I am foulded) then let the pittifull tender <hi>mother</hi> forget her innocent tender Infant of a ſpan long, the fruite of her wombe which ſhee hath brought forth through ſore pangs and ſorrow; yea then let mine eyes forget to guide or direct my feete, and let my right hand forget his ſervice for its fellow members, for if I forſake or turne my back from the little ones of the Campe of <hi>Iſrael,</hi> when in the wilderneſs in the day of tryal, when <hi>Amalecks</hi> forces approa<g ref="char:EOLhyphen"/>ches near them, yea or at the <hi>Lyons</hi> mouth or <hi>Dragons</hi> Den, then let my right hand be dryed up, and my peirceing ſword (which the Captaine of <hi>Iſraells</hi> hoſte hath girt about me) re<g ref="char:EOLhyphen"/>turne into mine own <hi>bowells,</hi> and let the ſharp Arrows of my <hi>Bow</hi> (which abode in its ſtrength when the Archers ſhott at me) ſwiftly paſs through my own Breaſt, yea then let the e<g ref="char:EOLhyphen"/>nemy perſecute my ſoule and take it, and lay mine honour in the duſt, and tread my life down to the ground, and let me be as them that goe down to the grave and ſhall never ſee <hi>light,</hi>
+               <pb n="5" facs="tcp:134560:4"/>
+nay yee are written and ſealed in my hearts love with inde<g ref="char:EOLhyphen"/>ligable Characters, even as with the poynt of a <hi>Diamond,</hi> in the bright polliſhed Marble; what inſtrument or power ſhall ever be able to raze you out; or make a ſeparation between us! yea though my outward man be here in bondage, <hi>my love, my life, my ſpirit is at liberty;</hi> and on a rock am I ſet above mine Enemies, my Tryalls and Sufferings (wherein my ſpirit) I oft behold the Innocent Lambs, feeding in the pleaſant paſ<g ref="char:EOLhyphen"/>tures, under the good Shepherds conduct, and drinking at the living Fountaine, where I ſee the harmleſs little ones feeding in the Banqueting houſe in the <hi>Fathers</hi> preſence; &amp; the Banner of love diſplayed over them, &amp; where I truly feed drink &amp; am refreſhed with and among them, to my unexpreſſable joy &amp; great delight; yea the Innocency of the Lambes, and ſimpli<g ref="char:EOLhyphen"/>city of the Babes oft times even overcomes my heart with love unto them, and the ſpirit of Courage and Valour which my God hath raiſed up in them in this day of his power, (by which they are made willing to Ieapard their lives in the high places of the Field) even fills my ſoule with joy, and my mouth with ſongs of prayſes for them; <hi>Oh dear Lambes!</hi> let me have a habitation amongſt you, and in your love and life let me have a reſting place, yea ſtretch forth your Armes to im<g ref="char:EOLhyphen"/>brace my breathing ſoule; and let your hearts be open to re<g ref="char:EOLhyphen"/>ceive my love, for I am your Brother, one of your Mothers Children, let me be near unto you; And further <hi>my dearely beloved Brethren and Siſters,</hi> let me put you in remembrance that the enemies of your everlaſting peace are many, ſubtill &amp; Potent, yea when I have beheld the rageing ſea, caſting up her Monſters, when I have reviewed the ſtrength of <hi>Amalecks</hi> Ar<g ref="char:EOLhyphen"/>my, with the <hi>Midianitiſh</hi> wiles, the long wilderneſs uninha<g ref="char:EOLhyphen"/>bited, and the unknown path to be paſſed through, with the many Bryars and Thornes, fiery Serpents and wild Beaſts,
+<pb n="6" facs="tcp:134560:4"/>
+the ſons of <hi>Anak</hi> to be overcome, and fenced Cities to be won in the ardency of my ſpirit, and fervency of love, my ſoule even cryes <hi>Lord preſerve the Innocent and upright in heart,</hi> &amp; carry thy little ones in thy Boſſome, &amp; let thine everlaſt<g ref="char:EOLhyphen"/>ing arme encompaſs them, for what Power, what Wiſdome, can deliver from thoſe Enemies &amp; lead through thoſe ſtraites difficulties and diſtreſſes, <hi>but the Power and Wiſdome of the Lord of Hoſtes.</hi> And therefore in all eſtates and conditions whatſo<g ref="char:EOLhyphen"/>ever, let your eye be unto him, <hi>from whom alone ſalvation comes,</hi> and in diligence and faithfulneſs waite upon him, that with his wiſdome and power yee may be throughly furniſhed, by which yee may be able to encounter with and overcome all hardſhips, and enemies whatſoever; <hi>for truely dear hearts,</hi> when I veiw the <hi>ſtrength,</hi> the <hi>ſubtilty,</hi> the <hi>vigilancy</hi> and <hi>cruelty</hi> of theſe Enemies, my heart would faint, but that I alſo ſee and know <hi>the worke is the Lords,</hi> and his power is over all, whoſe councel ſhall ſtand; Who is bringing up his <hi>choſen</hi> with <hi>joy,</hi> and his redeemed with gladneſs, to the mountaine of <hi>holineſs</hi> and habitation of <hi>Juſtice,</hi> where the weary find reſt, and the hungry and thirſty are plentifully fed and refreſhed and nouriſhed up and preſerved unto everlaſting life, and where ſalvation is appointed for Walls and Bullworkes. And therefore <hi>Oh yee ſeed of Abraham!</hi> and little ones of the houſe of <hi>Iſrael,</hi> lift up your heads and rejoyce, feare not neither be yee diſmayed, looke yee not out at enemies, neither their <hi>power, malice, ſubtilty,</hi> nor <hi>rage,</hi> but ſtay your minds in that <hi>light</hi> that firſt convinc't you of ſin, waite very diligently in it, and be faithfull to its leading and commands in the leaſt ap<g ref="char:EOLhyphen"/>pearance, although you may (as to the outward), ſuffer great loſs by ſo doing; and take diligent heed to watch againſt that which would draw your mindes from it, under what couler or pretence ſoever; <hi>Deare hearts take heed of ſelfe in every thing,</hi>
+               <pb n="7" facs="tcp:134560:5"/>
+for its in League with the Prince of Darkneſs, and is a chief Leader in his Army; <hi>ſelfe love, ſelfe wiſdome,</hi> yea, beware of the wiſdome of the fleſh, which will ſome times exerciſe it ſelfe in the things of God, and will be prying into &amp; try<g ref="char:EOLhyphen"/>ing, &amp; examining, &amp; judging, that which it underſtands not; but in the end it betrayes <hi>Simplicity</hi> and <hi>Innocency,</hi> beware of ſelfe <hi>Exaltation</hi> under what ſhew ſoever, but keep to that which keeps you in the Croſs to the carnall part, that yee may dye daily thereunto, yea remember the time of your firſt love, and day of your eſpouſalls, <hi>when the dread of the Lord was over you,</hi> and when you durſt not utter words untill tryed and Judged, when ſimplicity and Innocency was ſought after, to be Guid and Leader. <hi>Oh then Unity and Love increaſed, and the little ones grew ſtrong in the Lord,</hi> Take heed of Covetouſneſs, of the mind, ſecret ſtealing againe into the <hi>Earth,</hi> beware of <hi>haſte</hi> and <hi>raſhneſs</hi> in any thing, but let the meeke and gentle Spirit, Guide and Leade in every thing, and be kind and ten<g ref="char:EOLhyphen"/>derly affectioned one to another, <hi>bearing</hi> and <hi>forbearing</hi> each other in love, looking alwayes to the better Part, where the u<g ref="char:EOLhyphen"/>nity ſtands, unto that which <hi>in your ſelues</hi> diſcovers ſecrets, but covers and hides infirmities <hi>in the Brethren;</hi> and if any be overtaken with a fault take heed of haſty Judging &amp; Reprov<g ref="char:EOLhyphen"/>ing, for that will not reſtore, but in Pitty and Love beare; <hi>Ve<g ref="char:EOLhyphen"/>rily</hi> when I have beheld the ſtrong, ſubtill and many Enemies that the poore weake and little ones have to encounter with<g ref="char:EOLhyphen"/>all, many ſtrong Luſts and riſeings <hi>within,</hi> and great temp<g ref="char:EOLhyphen"/>tations and tryalls <hi>without,</hi> by which many times they are overcome, and ſore wounded, my ſoul in ſecret is even melted and drawn out in love and pitty towards them; and gladly could I help bear their burthens and War againſt their Enemies! yea my life would not be dear unto me to ſave a Lambe from the <hi>Lyons</hi> mouth.</p>
+            <p>
+               <pb n="8" facs="tcp:134560:5"/>Let <hi>bowels of love</hi> reach one to another in every condition, And <hi>yee</hi> that have of this worlds goods, ſhutt not out from you the <hi>ſence and feeling</hi> of others wants, but waite to have that eye open that <hi>beholds</hi> &amp; <hi>feeles</hi> others neceſſities, yea let your <hi>bow<g ref="char:EOLhyphen"/>ells</hi> be drawen forth to the <hi>hungry ond needy,</hi> that their <hi>bowells</hi> alſo may <hi>bleſs</hi> the Lord for you; &amp; take heed of excuſes when <hi>truth</hi> &amp; <hi>neceſſity</hi> requires your aide; what if <hi>ſome</hi> be ſlack &amp; negligent herein, let <hi>others</hi> be So much the more bountifull &amp; liberall by ſuch example to provoke or make them aſham<g ref="char:EOLhyphen"/>ed, that it may appear that the <hi>earth</hi> is under your feet, and that you are Children of the Lord, becauſe you love the <hi>Bre<g ref="char:EOLhyphen"/>thren,</hi> and <hi>in all</hi> that the ſence and feeling of the love of God towards you reach forth one to another as the <hi>root</hi> and <hi>off<g ref="char:EOLhyphen"/>ſpring</hi> of all, then ſhall <hi>peace</hi> extend to you as a River, and <hi>righteouſneſs</hi> run down as a mighty ſtream, then ſhall there be noe mourning nor complaining in our ſtreets, nor begger in our <hi>Iſrael,</hi> but <hi>Unity, joy,</hi> and <hi>gladneſs</hi> within our Habitati<g ref="char:EOLhyphen"/>on, Oh its a bleſſed thing to have an open heart and liberall hand; a ſacrifice well pleaſſing to the Lord.</p>
+            <p>And <hi>deare hearts,</hi> take heed of that eye that will watch for evill one againſt another, or be too watchfull to ſpye others faults, take heed of ſuffering prejudice or offences to ariſe in any caſe <hi>within</hi> you, for if it once have got footing <hi>there,</hi> it is not eaſily removed, &amp; if that which is evill in another riſe againſt any of you, Then diligently watch over your own hearts, leaſt the ſame evill riſe in you and contend with the other, And this doth but gender ſtrife &amp; breake Unity; but in caſe of wrong or injury done againſt you, ſeeke not too ea<g ref="char:EOLhyphen"/>gerly to vindicate your ſelues (though inocent) <hi>but in Gods wiſ<g ref="char:EOLhyphen"/>dome, true patience</hi> and love to the offender, beare and for<g ref="char:EOLhyphen"/>beare, and ſuffer wrong rather then to increaſe diſcord, wait<g ref="char:EOLhyphen"/>ing patiently on the Lord, who in due time will clear your
+<pb n="9" facs="tcp:134560:6"/>
+innocency as the light. And ſo all dwell in love together, &amp; let <hi>the God of peace an Unity rule in your hearts forevermore.</hi> Then ſhall your hearts be filled with joy and gladneſs, and your mouthes with joyfull praiſes, <hi>Oh praiſe the Lord forever,</hi> and <hi>exalt his Name</hi> in the Congregation of the righteous, for he hath <hi>done</hi> marvelous things, he hath regarded the <hi>low eſtate</hi> of the poor and needy, he hath heard the <hi>cryes</hi> of the <hi>Oppreſ<g ref="char:EOLhyphen"/>ſed,</hi> and <hi>ſighing</hi> of his <hi>Priſoners,</hi> and with <hi>his Arme</hi> hath he brought <hi>Salvation,</hi> and with his <hi>own right hand</hi> hath he gotten himſelfe the <hi>Victory. Oh! yee Innocent and upright in Heart,</hi> lift up your heads and be glad in the Lord, for his Councel concerning us ſhall ſtand, that he will never leave us untill he hath ſet us in full Poſſeſſion of the promiſed <hi>Inheri<g ref="char:EOLhyphen"/>tance:</hi> Settle it in your hearts that he hath not raiſed us out of the duſt and brought us hitherto, now to let us fall in the wil<g ref="char:EOLhyphen"/>derneſs, and give us over as a Prey to our Enemies; What then ſhall become of his great Name which he hath exalted and is exalting in the ſight of the Nations, and for which it is that he hath done theſe great things for us? not for <hi>your ſakes</hi> nor worthineſs, <hi>(Oh Seed of Iſrael)</hi> hath he remembred his <hi>Covenant</hi> with you, but for his <hi>own name ſake</hi> hath he wrought deliverance for you; yet know this for your conſolation, for <hi>your ſakes</hi> will he <hi>reprove Kings</hi> in the day of his wrath, and poure <hi>contempt</hi> upon <hi>Princes,</hi> yea and (rather then his worke of deliverance ſhall ſaile) will <hi>overthrow Kingdomes</hi> &amp; <hi>Nations</hi> if they ſtand in his way: <hi>praiſe him forever, and give thankes in remembrance of his hollyneſs,</hi> for it becomes the juſt to be <hi>thank<g ref="char:EOLhyphen"/>full,</hi> and <hi>praiſe</hi> is comely for the upright, And when you draw near unto him make mention of your <hi>Brother</hi> before him, that his <hi>loving kindneſs</hi> may be continued towards <hi>me,</hi> and I <hi>pre<g ref="char:EOLhyphen"/>ſerved</hi> in <hi>faithfulneſs</hi> to him, and <hi>Vnity</hi> with you all, <hi>yea</hi> let all my true hearted <hi>Brethren and Siſters</hi> know, that he hath
+<pb n="10" facs="tcp:134560:6"/>
+dealt very <hi>bountifully</hi> with me, and all his <hi>waies</hi> have I found to be <hi>Mercie and Truth</hi> unto me, for when by his grace he firſt called <hi>me,</hi> I obtained <hi>Mercie</hi> to be found <hi>faithfull,</hi> and when through my Labours and Travells in his <hi>Vineyard</hi> wherein he ſet me, my Teſtimony for him <hi>there</hi> was finiſhed, and my <hi>outward ſtrength</hi> near exhauſted, he gathered me to my <hi>expect<g ref="char:EOLhyphen"/>ed reſt</hi> in peace, and though mine <hi>Enemies</hi> (in eager purſuite of their malice and envy) cauſeleſsly caſt me into this <hi>Iayle</hi> a<g ref="char:EOLhyphen"/>mongſt <hi>theeues</hi> and <hi>evill doers,</hi> yet my God had a deſigne of <hi>Love</hi> towards me in it, who hath made it a very <hi>pleaſant</hi> Ha<g ref="char:EOLhyphen"/>bitation, and is <hi>himſelfe</hi> become a little <hi>Sanctuary</hi> unto me, where <hi>in his preſence</hi> I am preſerved in perfect joy and peace, having the <hi>Teſtimony</hi> of his ſpirit <hi>in many of you</hi> of my faihtfull ſervice for him towards you, and the ſame <hi>Teſtimo<g ref="char:EOLhyphen"/>ny</hi> alſo <hi>in my ſelfe</hi> that I never <hi>conſulted</hi> with <hi>fleſh</hi> and <hi>blood,</hi> or <hi>diſputed</hi> his <hi>Commands</hi> when and where ever he ſent me, and that I this day <hi>ſtand clear</hi> of the <hi>Blood</hi> of all men; And now <hi>my dear and pretious Ones,</hi> in veiw of your goodly Tents &amp; pleaſant Habitation I leave you, and with plenty of teares I kiſs and imbrace You, my heart being as ful of love towards you, as when I began to write, for while the <hi>ſtreames</hi> thereof ſwiftly runs unto you, ſuch is my <hi>ſimpathy</hi> with and <hi>nearneſs</hi> to you, that I am <hi>filled</hi> with the Returnes of <hi>Yours</hi> to me, it be<g ref="char:EOLhyphen"/>ing as natural to my heart to receive it, as the parched ground the drops of raine; <hi>Oh bleſs yee the Lord for me,</hi> and let us <hi>magnifie</hi> his Name together.</p>
+            <p>Well then <hi>dear hearts,</hi> in your love am I even rouled as in a <hi>Garment,</hi> and <hi>bound</hi> with everlaſting cords, and <hi>ſealed</hi> in a per<g ref="char:EOLhyphen"/>petuall <hi>Covenant</hi> which out laſts the day and night, in this <hi>love</hi> let me <hi>live,</hi> yea <hi>in it</hi> let me <hi>dye,</hi> yet in the ſame I ſhall <hi>out live</hi> death it ſelfe, where (in his everlaſting Armes who is love, and who never ſlumbers nor ſleeps) I reſt and ſo<g ref="char:EOLhyphen"/>lace
+<pb n="11" facs="tcp:134560:7" rendition="simple:additions"/>
+my ſelfe with and in you, And ſo receive yee <hi>this</hi> as a <hi>token</hi> of that <hi>indeared love</hi> flowing forth from me which ſhall abide when I ſhall be no more, but yet a <hi>hope</hi> lives in me that <hi>he</hi> ſhall once againe ſee the faces of many of you <hi>Who is</hi>
+            </p>
+            <closer>
+               <signed>Your dear Brother (a Priſoner for the hope of <hi>Iſrael</hi>) JASPER BATT.</signed>
+               <dateline>
+                  <hi>Evileheſter Goale</hi> 
+                  <date>
+                     <hi>the</hi> 18th <hi>of the</hi> 10th <hi>Month,</hi> 1661.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:134560:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
